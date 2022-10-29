@@ -568,7 +568,8 @@ a {
         height: 400px;
         background-size:contain;
         background-repeat: no-repeat;
-    }
+        margin-right: 0
+        }
     .hero--photo {
         visibility: hidden;
      }
