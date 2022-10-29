@@ -60,7 +60,7 @@ nav {
     margin-left: 35px;
     margin-top: 10px;
     padding-bottom: 50px;
-    padding-right: 80px;
+    margin-right: 80px;
     display: flex;
     flex-direction: row;
     border-bottom: 1px solid #F5F5F5;
