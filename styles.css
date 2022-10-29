@@ -76,7 +76,6 @@ nav {
 }
 
 .hero--info {
-    max-width: 600px;
     font-size: 26px;
     margin: 10px;
     display:flex;
@@ -91,6 +90,7 @@ nav {
 
 .hero--paragraph {
     margin-bottom: 0;
+    max-width: 600px;
 }
 .styled-break {
     width:60px;
