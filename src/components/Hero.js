@@ -12,14 +12,6 @@ export default function Hero() {
                     <div className="button2"><a className='hero-but' href='#contact-me'>Get in touch</a></div>
                 </div>
             </div>
-            {/* <img alt='pic'src="../images/working-man2.png" className="hero--photo" /> */}
-            
-            {/* <img alt='pic'src="../images/working-man-svgg.svg" className="hero--photo" /> */}
-            <div className='pic-con'></div>
-            {/* <img alt='pic'src="../images/" className="hero--photo" /> */}
-
-
-            
         </section>
     )
 }
