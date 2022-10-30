@@ -485,7 +485,7 @@ a {
     color: #f3e4d6;
     padding: 5px 10px 0px 10px;
     font-family: 'Roboto', sans-serif;
-    height: 160px;
+    height: 140px;
 }
 
 .footer-logo {
@@ -528,7 +528,7 @@ a {
     position: absolute;
     align-self:flex-end;
     padding-top: 30px;
-    font-size: 8px;
+    font-size: 11px;
 }
 
 /*
